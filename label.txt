@@ -1,0 +1,5 @@
+sadness (0)
+Joy (1)
+Love (2)
+Anger (3)
+Fear (4)
