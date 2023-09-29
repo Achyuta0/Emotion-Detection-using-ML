@@ -28,11 +28,17 @@ Encourage collaboration and contributions from the open-source community to enha
 </li>
 </ul>
 
-<h2>How to Contribute:<h2>
+<h2>How to Contribute:</h2>
+<ul>
+<li>
 Fork the repository and clone it to your local machine.
-
+</li>
+<li>
 Choose an area of interest (text emotion detection or frontend web page) and propose improvements or optimizations.
-
+</li>
+<li>
 Implement new features, fix bugs, or enhance the existing functionality. Ensure to follow the coding standards and guidelines.
-
+</li>
+<li>
 Submit a pull request with a clear description of your changes and improvements.
+</li>
